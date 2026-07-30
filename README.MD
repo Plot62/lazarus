@@ -72,7 +72,14 @@ How to help Lazarus:
 If you find bugs, don't hesitate to use the bug tracking tool at the website,
 or send an email to the list.
 Patches can be sent as .zip or .tgz attachments directly to the mailing list if
-small, or (preferably) to the bug tracker at
-http://bugs.freepascal.org/my_view_page.php
-or send the patch to patch@dommelstein.net.
+small, or (preferably) to the bug tracker at http://bugs.freepascal.org/my_view_page.php or send the patch to patch@dommelstein.net.
+## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
